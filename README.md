@@ -1,4 +1,5 @@
 🕵️‍♂️ Fake Websites & Email Detection System
+
 📌 Project Overview
 
 The Fake Websites and Email Detection System is a machine learning and web scraping-based project that helps identify fraudulent websites and suspicious emails. The system extracts key features such as domain age, SSL certificate validity, presence of login forms, suspicious keywords, and email patterns. It then classifies them as Legit or Fake using trained models.
